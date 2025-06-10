@@ -1,3 +1,4 @@
 # jiten-demo
-This is my first git repository
-Author-Jiten Kumar Bhuyan
+This is my first git repository.
+<br>
+Author - Jiten Kumar Bhuyan.
